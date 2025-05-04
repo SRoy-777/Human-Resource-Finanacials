@@ -23,7 +23,7 @@ Developed to support strategic HR planning, this report transforms raw employee 
 ---
 
 ## 🖼️ Screenshot
-![HR Dashboard Screenshot](./Dashboard.png)
+![HR Dashboard Screenshot](./Dashboard.PNG)
 
 ---
 
